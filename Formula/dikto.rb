@@ -1,8 +1,8 @@
 class Dikto < Formula
   desc "Voice-to-text CLI for macOS — local speech transcription"
   homepage "https://diktoapp.github.io"
-  url "https://github.com/diktoapp/dikto/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "d8df268c18e08af58721dad22988ccb528e4740ce61c6512769da5e025109c3b"
+  url "https://github.com/diktoapp/dikto/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "f7c36de88dd2fae5a82117ba14e62bcba334deaa04202e4a16d14c6986497a48"
   license "MIT"
   head "https://github.com/diktoapp/dikto.git", branch: "main"
 
