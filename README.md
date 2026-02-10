@@ -1,11 +1,11 @@
 # homebrew-dikto
 
-Homebrew tap for [Dikto](https://github.com/sourabhbgp/dikto) — voice-to-text for macOS.
+Homebrew tap for [Dikto](https://github.com/diktoapp/dikto) — voice-to-text for macOS.
 
 ## Install
 
 ```bash
-brew tap sourabhbgp/dikto
+brew tap diktoapp/dikto
 ```
 
 ### GUI App (Cask)
@@ -19,7 +19,7 @@ brew install --cask dikto
 Builds from source — requires Rust and cmake.
 
 ```bash
-brew install sourabhbgp/dikto/dikto
+brew install diktoapp/dikto/dikto
 ```
 
 ## Gatekeeper
